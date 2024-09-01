@@ -7897,5 +7897,17 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-09-01 16:25:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-09-01 16:44:15 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

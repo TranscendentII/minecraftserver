@@ -238,18 +238,24 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-09-01 16:49:30 +0200",
       "minecraft:skeleton": "2024-06-19 21:35:12 +0200",
       "minecraft:phantom": "2024-06-24 20:42:17 +0200",
+      "minecraft:zombified_piglin": "2024-09-01 16:50:46 +0200",
+      "minecraft:wither_skeleton": "2024-09-01 16:51:10 +0200",
+      "minecraft:ghast": "2024-06-24 21:14:21 +0200",
+      "minecraft:ender_dragon": "2024-06-24 21:26:24 +0200",
+      "minecraft:hoglin": "2024-09-01 16:57:16 +0200",
+      "minecraft:shulker": "2024-06-24 21:46:21 +0200",
+      "minecraft:piglin": "2024-09-01 16:59:57 +0200",
       "minecraft:silverfish": "2024-06-24 21:09:38 +0200",
       "minecraft:enderman": "2024-06-24 21:20:43 +0200",
+      "minecraft:magma_cube": "2024-09-01 16:54:38 +0200",
       "minecraft:spider": "2024-06-19 21:37:21 +0200",
       "minecraft:zombie": "2024-06-16 21:51:47 +0200",
       "minecraft:creeper": "2024-06-16 20:46:34 +0200",
       "minecraft:drowned": "2024-06-16 20:47:25 +0200",
-      "minecraft:ghast": "2024-06-24 21:14:21 +0200",
-      "minecraft:slime": "2024-06-16 22:42:01 +0200",
-      "minecraft:ender_dragon": "2024-06-24 21:26:24 +0200",
-      "minecraft:shulker": "2024-06-24 21:46:21 +0200"
+      "minecraft:slime": "2024-06-16 22:42:01 +0200"
     },
     "done": false
   },
@@ -7863,6 +7869,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-09-01 16:49:00 +0200",
       "minecraft:soul_sand_valley": "2024-06-24 21:14:02 +0200"
     },
     "done": false
@@ -7936,6 +7943,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-06-24 21:49:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-09-01 16:48:57 +0200"
     },
     "done": true
   },
